@@ -1,1 +1,2 @@
 archivo2
+archivo 2 desde rama 1
